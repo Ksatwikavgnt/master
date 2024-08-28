@@ -1,0 +1,3 @@
+git is generally used in large organization to build projects on same platform
+it helps users to have files share with the world for free
+it is mostly used by all organizations
